@@ -5,8 +5,6 @@
 @section('content')
 
 
-{{-- asdijaisdjiasjdiajsdijasidjiasjdi --}}
-{{-- asdijaisdjiasjdiajsdijasidjiasjdi --}}
   <!-- ======= Hero Section ======= -->
   <section id="hero">
 
